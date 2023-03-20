@@ -31,7 +31,7 @@
 
 </p>
 
-<h1>About</h1>
+<h1>About Me</h1>
 
 Hi there, my name is **Abdi Urgessa** and I'm a full-stack developer with a passion for building `high-performance`, `secure`, and `user-friendly` applications. With several years of experience in the industry, I've had the pleasure of working on a variety of projects ranging from small-scale startups to enterprise-level applications.
 
