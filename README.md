@@ -35,7 +35,7 @@
 
 Hi there, my name is **Abdi Urgessa** and I'm a full-stack developer with a passion for building `high-performance`, `secure`, and `user-friendly` applications. With several years of experience in the industry, I've had the pleasure of working on a variety of projects ranging from small-scale startups to enterprise-level applications.
 
-I specialize in developing `microservices` architecture and I have a deep understanding of backend technologies such as `Rust` and `Node.js`. I believe in writing `clean`, `scalable` code that is easy to maintain and helps to reduce technical debt.
+I specialize in developing `microservices` architecture and I have a deep understanding of backend technologies such as `Rust`, `python` and `Node.js`. I believe in writing `clean`, `scalable` code that is easy to maintain and helps to reduce technical debt.
 
 In addition to my technical skills, I am also experienced in `project management` using `Scrum` and `agile` methodologies. I enjoy working with teams to define project requirements, establish milestones, and ensure timely delivery of high-quality software.
 
