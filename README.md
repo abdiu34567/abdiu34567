@@ -25,12 +25,16 @@
 
 <h1>About Me</h1>
 
-Hi there, my name is **Abdi Urgessa** and I'm a full-stack developer with a passion for building `high-performance`, `secure`, and `user-friendly` applications. With several years of experience in the industry, I've had the pleasure of working on a variety of projects ranging from small-scale startups to enterprise-level applications.
+Hi there, my name is Abdi Urgessa, and I'm a `backend-focused` developer with a passion for building `high-performance`, `secure`, and `scalable` systems. With several years of experience in the tech industry, I've had the opportunity to work on diverse projects, from startup solutions to enterprise-grade applications.
 
-I specialize in developing `microservices` architecture and I have a deep understanding of backend technologies such as `Rust`, `python` and `Node.js`. I believe in writing `clean`, `scalable` code that is easy to maintain and helps to reduce technical debt.
+I specialize in `backend` development, `microservices architecture`, and `DevOps`, with expertise in technologies like `Rust`, `Python`, and `Node.js`. I emphasize `clean`, `maintainable`, and `scalable` code that reduces technical debt and ensures long-term reliability.
 
-In addition to my technical skills, I am also experienced in `project management` using `Scrum` and `agile` methodologies. I enjoy working with teams to define project requirements, establish milestones, and ensure timely delivery of high-quality software.
+Beyond development, I have hands-on experience in:
 
-When it comes to frontend development, I am proficient in using popular frameworks like `React`, `Vue`, and `Angular` to create responsive and visually appealing user interfaces. I am always looking for new challenges and opportunities to learn, and I am excited to continue growing my skills as a developer.
+- DevOps workflows, including containerization, orchestration, and CI/CD pipelines.
+- Web application security and penetration testing to identify and mitigate vulnerabilities.
+- Automated testing for robust software delivery and improved reliability.
+- System architecture design, ensuring scalable and maintainable solutions tailored to business needs.
+- I thrive in agile environments, applying Scrum methodologies to manage projects effectively, define clear milestones, and deliver high-quality software on time.
 
-Feel free to connect with me on LinkedIn to learn more about my work.
+I'm always exploring opportunities to solve complex challenges and collaborate on innovative solutions. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abdi-urgessa/) to learn more about my work or discuss potential collaborations.
