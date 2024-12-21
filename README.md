@@ -31,10 +31,10 @@ I specialize in `backend` development, `microservices architecture`, and `DevOps
 
 Beyond development, I have hands-on experience in:
 
-- DevOps workflows, including containerization, orchestration, and CI/CD pipelines.
-- Web application security and penetration testing to identify and mitigate vulnerabilities.
-- Automated testing for robust software delivery and improved reliability.
-- System architecture design, ensuring scalable and maintainable solutions tailored to business needs.
-- I thrive in agile environments, applying Scrum methodologies to manage projects effectively, define clear milestones, and deliver high-quality software on time.
+- `DevOps` workflows, including `containerization`, `orchestration`, and `CI/CD` pipelines.
+- `Web application security` and `penetration testing` to identify and mitigate vulnerabilities.
+- `Automated testing` for robust software delivery and improved reliability.
+- `System architecture` design, ensuring `scalable` and `maintainable` solutions tailored to business needs.
+- I thrive in `agile environments`, applying `Scrum` methodologies to manage projects effectively, define clear milestones, and deliver high-quality software on time.
 
 I'm always exploring opportunities to solve complex challenges and collaborate on innovative solutions. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abdi-urgessa/) to learn more about my work or discuss potential collaborations.
