@@ -23,7 +23,7 @@
 
 Hi there, my name is Abdi Urgessa, and I'm a `backend-focused` developer with a passion for building `high-performance`, `secure`, and `scalable` systems. With several years of experience in the tech industry, I've had the opportunity to work on diverse projects, from startup solutions to enterprise-grade applications.
 
-I specialize in `backend` development, `microservices architecture`, and `DevOps`, with expertise in technologies like `Rust`, `Python`, and `Node.js`. I emphasize `clean`, `maintainable`, and `scalable` code that reduces technical debt and ensures long-term reliability.
+I specialize in `backend` development, `microservices architecture`, and `DevOps`, with expertise in technologies like `Laravel`, `Rust`, `Python`, and `Node.js`. I emphasize `clean`, `maintainable`, and `scalable` code that reduces technical debt and ensures long-term reliability.
 
 Beyond development, I have hands-on experience in:
 
